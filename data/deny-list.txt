@@ -1,0 +1,12 @@
+alibaba.cdn.steampipe.steamcontent.com
+baidu.com
+bidmachine.io
+duckdns.org
+goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+launchdarkly.com
+
+api.iris.microsoft.com
+iris.api.microsoft.com
+
+analytics.unity3d.com
+operate-sdk-telemetry.unity3d.com

@@ -1,5 +1,4 @@
 #!/bin/bash
 
-./src/allow-list.sh
-./src/block-list.sh
+./src/allow-deny-list.sh
 ./src/tlds.sh
