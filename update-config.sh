@@ -31,12 +31,8 @@ JSON=$(
     | jq --raw-output --slurp '.'
 )
 
-jq <<< $JSON
+# push new TLD block list
 
-# read profile credentials and push new TLD block list
-
-# read -p "Profile: " PROFILE
-# read -p "API-Key: " API-KEY
 curl \
     -X PUT \
     -d "$JSON" \
