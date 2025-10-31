@@ -15,7 +15,7 @@ TLDS=$(
 
 printf "remove allowed TLDs from list\n\n"
 
-ALLOWED=$(cat allowed-tlds.txt)
+ALLOWED=$(cat data/allowed-tlds.txt)
 BLOCKED=""
 for TLD in $TLDS; do
     grep -iE '^'$TLD'$' <<< "$ALLOWED" >/dev/null
