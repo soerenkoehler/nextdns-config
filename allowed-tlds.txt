@@ -1,0 +1,16 @@
+at
+ch
+de
+eu
+fr
+uk
+
+com
+net
+org
+
+aws
+dev
+io
+microsoft
+ms
