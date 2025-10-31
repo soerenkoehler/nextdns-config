@@ -1,17 +1,19 @@
 #!/bin/bash
 
-# get TLD list from next dns
+# The NextDNS TLD list does not match the IANA list. Since the PUT method will
+# validate against the nextdns list, using the IANA list will produce errors
 #
-# hint: nextdns TLD list does not match the IANA list under
-# https://data.iana.org/TLD/tlds-alpha-by-domain.txt and the PUT method will
-# validate against the nextdns list
+# NextDNS, JSON:    https://api.nextdns.io/security/tlds
+# IANA, plain text: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+
+printf "load global TLDs\n\n"
 
 TLDS=$(
     curl https://api.nextdns.io/security/tlds \
     | jq -r '.data[].id'
 )
 
-# remove allowed TLDs from list
+printf "remove allowed TLDs from list\n\n"
 
 ALLOWED=$(cat allowed-tlds.txt)
 BLOCKED=""
@@ -22,7 +24,7 @@ for TLD in $TLDS; do
     fi
 done
 
-# convert back to JSON format
+printf "convert back to JSON format\n\n"
 
 JSON=$(
     for BLOCK in $BLOCKED; do
@@ -31,7 +33,7 @@ JSON=$(
     | jq --raw-output --slurp '.'
 )
 
-# push new TLD block list
+printf "push new TLD block list\n\n"
 
 curl \
     -X PUT \
