@@ -38,5 +38,5 @@ printf "push new TLD block list\n\n"
 curl \
     -X PUT \
     -d "$JSON" \
-    -H "X-API-KEY: $API-KEY" \
+    -H "X-API-KEY: $API_KEY" \
     https://api.nextdns.io/profiles/$PROFILE/security/tlds
