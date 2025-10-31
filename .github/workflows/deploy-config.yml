@@ -8,6 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: default
     env:
       PROFILE: ${{ secrets.profile }}
       API_KEY: ${{ secrets.api_key }}
