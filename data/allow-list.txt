@@ -2,3 +2,5 @@ paypal.com
 soerenkoehler.de
 usercentrics.eu
 xtracloud.net
+
+testurl-allow.org

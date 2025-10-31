@@ -10,3 +10,5 @@ iris.api.microsoft.com
 
 analytics.unity3d.com
 operate-sdk-telemetry.unity3d.com
+
+testurl-deny.org
