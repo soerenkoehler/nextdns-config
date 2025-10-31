@@ -4,7 +4,7 @@ deploy_list() {
     printf "create $1 list JSON\n\n"
 
     JSON=$(
-        jq <${1}-list.txt --raw-input '{ id: ., active: true }' \
+        jq <data/${1}-list.txt --raw-input '{ id: ., active: true }' \
         | jq --slurp
     )
 
