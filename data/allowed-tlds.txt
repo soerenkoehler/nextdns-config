@@ -13,8 +13,6 @@ edu
 net
 org
 
-aws
 dev
 io
 microsoft
-ms
