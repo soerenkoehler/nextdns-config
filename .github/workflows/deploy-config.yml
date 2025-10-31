@@ -16,5 +16,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run a one-line script
-        run: ./update-config.sh
+      - run: ./update-config.sh
