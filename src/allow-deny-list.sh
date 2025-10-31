@@ -5,6 +5,7 @@ deploy_list() {
 
     JSON=$(
         jq <data/${1}-list.txt --raw-input '{ id: ., active: true }' \
+        | jq 'select(.id!="")' \
         | jq --slurp
     )
 
