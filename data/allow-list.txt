@@ -35,4 +35,5 @@ threema.id
 usercentrics.eu
 veracrypt.fr
 xtracloud.net
+youtu.be
 zoom.us
