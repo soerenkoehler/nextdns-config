@@ -10,6 +10,7 @@ dexonline.ro
 discord.gg
 docs.rs
 dominos.nl
+easylist.to
 enbw-az.cloud
 esm.sh
 github.community
@@ -27,6 +28,7 @@ netcetera-payment.ch
 ordnet.dk
 paypal.com
 pinafore.social
+pki.goog
 proton.me
 redd.it
 sfgame.eu
