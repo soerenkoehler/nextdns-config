@@ -4,12 +4,14 @@ deploy_list() {
     printf "create $1 list JSON\n\n"
 
     JSON=$(
-        jq <data/${1}-list.txt --raw-input '{ id: ., active: true }' \
+        src/preprocess.sh data/${1}-list.txt \
+        | jq --raw-input '{ id: ., active: true }' \
         | jq 'select(.id!="")' \
         | jq --slurp
     )
 
-    printf "push new $1 list\n\n"
+    printf "push new $1 list:\n"
+    printf "%s\n\n" "$JSON"
 
     curl \
         -X PUT \

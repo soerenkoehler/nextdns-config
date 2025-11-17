@@ -15,7 +15,7 @@ TLDS=$(
 
 printf "remove allowed TLDs from list\n\n"
 
-ALLOWED=$(cat data/allowed-tlds.txt)
+ALLOWED=$(src/preprocess.sh data/allowed-tlds.txt)
 BLOCKED=""
 for TLD in $TLDS; do
     grep -iE '^'$TLD'$' <<< "$ALLOWED" >/dev/null
@@ -33,7 +33,8 @@ JSON=$(
     | jq --raw-output --slurp '.'
 )
 
-printf "push new TLD block list\n\n"
+printf "push new TLD block list:\n"
+printf "%s\n\n" "$JSON"
 
 curl \
     -X PUT \
