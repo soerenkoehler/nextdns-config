@@ -16,10 +16,8 @@ enbw-az.cloud
 esm.sh
 github.community
 go.dev
-goodays.co
 ioi.dk
 jimdo.systems
-koi.ai
 linktr.ee
 mastodon.social
 mmst.eu
