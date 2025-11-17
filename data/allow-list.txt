@@ -1,39 +1,56 @@
-aka.ms
-app.goo.gl
-arte.tv
+### AWS
+
 aws.dev
+signin.aws
+
+### Google
+
+app.goo.gl # maps short links
+colab.google
+pki.goog # several PKI APIs
+
+### Microsoft
+
+aka.ms # short links
+sfx.ms # Onedrive updates
+
+### EnBW
+
+enbw-az.cloud
+sps-ocs.co.uk # dependency Mitarbeiterpostfach
+
+### Social
+
 bsky.app
 bsky.network
 bsky.social
-colab.google
+discord.gg
+mstdn.social
+mastodon.social
+pinafore.social
+redd.it
+threema.id
+
+### other
+
+arte.tv
 crp.to
 dexonline.ro
-discord.gg
 docs.rs
 dominos.nl
 easylist.to
-enbw-az.cloud
 esm.sh
 github.community
 go.dev
 ioi.dk
 jimdo.systems
 linktr.ee
-mastodon.social
 mmst.eu
 moz.works
-mstdn.social
 netcetera-payment.ch
 ordnet.dk
-paypal.com
-pinafore.social
-pki.goog
 proton.me
-redd.it
 sfgame.eu
-signin.aws
-sps-ocs.co.uk
-threema.id
 usercentrics.eu
 veracrypt.fr
 xtracloud.net
