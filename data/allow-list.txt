@@ -1,4 +1,5 @@
 aka.ms
+app.goo.gl
 arte.tv
 aws.dev
 bsky.app
