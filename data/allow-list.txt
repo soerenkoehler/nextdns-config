@@ -1,7 +1,3 @@
-### temp
-
-pretix.cloud
-
 ### AWS
 
 aws.dev
@@ -9,6 +5,7 @@ signin.aws
 
 ### Google
 
+forms.gle
 app.goo.gl # maps short links
 colab.google
 pki.goog # several PKI APIs
