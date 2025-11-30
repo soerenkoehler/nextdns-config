@@ -2,6 +2,7 @@ alibaba.cdn.steampipe.steamcontent.com
 baidu.com
 bidmachine.io
 duckdns.org
+z-m-gateway.facebook.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 launchdarkly.com
 
