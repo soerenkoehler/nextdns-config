@@ -18,6 +18,7 @@ sfx.ms # Onedrive updates
 ### EnBW
 
 enbw.link
+enbw.cloud
 enbw-az.cloud
 sps-ocs.co.uk # dependency Mitarbeiterpostfach
 
