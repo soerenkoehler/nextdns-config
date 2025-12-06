@@ -52,6 +52,7 @@ go.dev
 ioi.dk
 jimdo.systems
 linktr.ee
+maps.reisenden.info
 mmst.eu
 moz.works
 netcetera-payment.ch
