@@ -1,7 +1,5 @@
 ### tmp
 
-magentazuhause.app
-
 ### AWS
 
 aws.dev
