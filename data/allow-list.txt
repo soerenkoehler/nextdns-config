@@ -1,6 +1,7 @@
 ### tmp
 
 shop.app
+static.pub
 
 ### AWS
 
