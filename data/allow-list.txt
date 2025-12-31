@@ -56,5 +56,6 @@ linktr.ee
 maps.reisenden.info
 moz.works
 proton.me
+serde.rs
 youtu.be
 zoom.us
