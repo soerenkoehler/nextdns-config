@@ -1,7 +1,5 @@
 ### tmp
 
-shop.app
-
 ### AWS
 
 api.aws
