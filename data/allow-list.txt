@@ -2,10 +2,10 @@
 
 ### LAN
 
-fritz.fritz.box
-fritz2.fritz.box
-printer.fritz.box
-diskstation.fritz.box
+fritz.box
+fritz.local
+diskstation.local
+printer.local
 
 ### AWS
 
