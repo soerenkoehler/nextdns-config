@@ -1,5 +1,12 @@
 ### tmp
 
+### LAN
+
+fritz.fritz.box
+fritz2.fritz.box
+printer.fritz.box
+diskstation.fritz.box
+
 ### AWS
 
 api.aws
