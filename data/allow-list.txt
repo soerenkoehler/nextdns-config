@@ -3,7 +3,9 @@
 ### LAN
 
 fritz.box
+fritz2.box
 fritz.local
+fritz2.local
 diskstation.local
 printer.local
 
