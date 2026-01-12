@@ -27,6 +27,10 @@ pki.goog # several PKI APIs
 aka.ms # short links
 sfx.ms # Onedrive updates
 
+### Benking
+
+ninetailed.co # DKB Homepage
+
 ### EnBW
 
 enbw.link
