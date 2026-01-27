@@ -64,6 +64,7 @@ easylist.to
 esm.sh
 github.community
 go.dev
+goodays.co # dependency Dominos Pizza
 jimdo.systems
 linktr.ee
 maps.reisenden.info
