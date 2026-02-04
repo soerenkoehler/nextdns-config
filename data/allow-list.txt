@@ -1,8 +1,5 @@
 ### tmp
 
-cuii.info
-sci-hub.st
-
 ### LAN
 
 fritz.box
