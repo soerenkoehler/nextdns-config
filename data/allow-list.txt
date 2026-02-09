@@ -58,6 +58,7 @@ threema.id
 
 arte.tv
 crp.to
+curl.se
 dexonline.ro
 docs.rs
 easylist.to
