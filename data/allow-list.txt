@@ -1,5 +1,6 @@
 ### tmp
 
+scoops.app
 scoops.co
 sli.do
 
