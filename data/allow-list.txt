@@ -1,7 +1,7 @@
 ### tmp
 
 scoops.app
-scoops.co
+auth.scoops.co
 sli.do
 
 ### LAN
