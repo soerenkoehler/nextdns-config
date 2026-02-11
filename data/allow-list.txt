@@ -1,5 +1,8 @@
 ### tmp
 
+scoops.co
+sli.do
+
 ### LAN
 
 fritz.box
