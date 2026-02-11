@@ -3,6 +3,7 @@
 scoops.app
 auth.scoops.co
 sli.do
+app.sli.do
 
 ### LAN
 
