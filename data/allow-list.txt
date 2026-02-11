@@ -2,7 +2,6 @@
 
 scoocs.app
 scoocs.co
-sli.do
 
 ### LAN
 
@@ -61,7 +60,7 @@ threema.id
 ### other
 
 arte.tv
-crp.to
+crp.to # OnlyKey
 curl.se
 dexonline.ro
 docs.rs
@@ -76,5 +75,6 @@ maps.reisenden.info
 moz.works
 proton.me
 serde.rs
+sli.do # Mentimeter
 youtu.be
 zoom.us
