@@ -30,7 +30,7 @@ pki.goog # several PKI APIs
 aka.ms # short links
 sfx.ms # Onedrive updates
 
-### Benking
+### Banking
 
 ninetailed.co # DKB Homepage
 
@@ -66,6 +66,7 @@ dexonline.ro
 docs.rs
 easylist.to
 esm.sh
+github.blog
 github.community
 go.dev
 goodays.co # dependency Dominos Pizza
