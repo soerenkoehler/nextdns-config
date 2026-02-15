@@ -1,7 +1,7 @@
 ### tmp
 
-scoocs.app
-scoocs.co
+scoocs.app  # OOP2026
+scoocs.co   # OOP2026
 
 ### LAN
 
@@ -23,9 +23,9 @@ signin.aws
 ### Google
 
 forms.gle
-app.goo.gl # maps short links
+app.goo.gl    # maps short links
 colab.google
-pki.goog # several PKI APIs
+pki.goog      # several PKI APIs
 
 ### Microsoft
 
@@ -34,14 +34,15 @@ sfx.ms # Onedrive updates
 
 ### Banking
 
-ninetailed.co # DKB Homepage
+ninetailed.co               # DKB Homepage
+paypal.com.fpc.datadome.co  # some Paypal checks
 
 ### EnBW
 
 enbw.link
 enbw.cloud
 enbw-az.cloud
-sps-ocs.co.uk # dependency Mitarbeiterpostfach
+sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 
 ### Steam
 
@@ -62,7 +63,7 @@ threema.id
 ### other
 
 arte.tv
-crp.to # OnlyKey
+crp.to               # OnlyKey
 curl.se
 dexonline.ro
 docs.rs
@@ -71,13 +72,13 @@ esm.sh
 github.blog
 github.community
 go.dev
-goodays.co # dependency Dominos Pizza
+goodays.co           # dependency Dominos Pizza
 jimdo.systems
 linktr.ee
 maps.reisenden.info
 moz.works
 proton.me
 serde.rs
-sli.do # Mentimeter
+sli.do               # Mentimeter
 youtu.be
 zoom.us
