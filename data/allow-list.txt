@@ -26,12 +26,13 @@ pki.goog      # several PKI APIs
 
 ### Microsoft
 
-aka.ms # short links
-sfx.ms # Onedrive updates
+aka.ms                  # short links
+sfx.ms                  # Onedrive updates
+onecdn.static.microsoft # Office 365
 
 ### Banking
 
-ninetailed.co               # DKB Homepage
+ninetailed.co               # dependency DKB Homepage
 paypal.com.fpc.datadome.co  # some Paypal checks
 
 ### EnBW
