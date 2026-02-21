@@ -13,7 +13,3 @@ com
 edu
 net
 org
-
-aws
-ms
-microsoft
