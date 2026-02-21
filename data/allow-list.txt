@@ -67,6 +67,7 @@ docs.rs
 easylist.to          # AdBlock Lists
 esm.sh
 fanboy.co.nz         # AdBlock Lists
+github.dev
 github.blog
 github.community
 go.dev
