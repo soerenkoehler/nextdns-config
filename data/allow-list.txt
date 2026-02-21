@@ -74,7 +74,6 @@ goodays.co           # dependency Dominos Pizza
 jimdo.systems
 linktr.ee
 maps.reisenden.info
-moz.works
 nextdns.io
 proton.me
 serde.rs
