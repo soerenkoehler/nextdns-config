@@ -5,11 +5,8 @@ scoocs.co   # OOP2026
 
 ### LAN
 
-fritz.box
 fritz.local
-fritz2.box
 fritz2.local
-fritz-asl.box
 fritz-asl.local
 diskstation.local
 printer.local
@@ -67,8 +64,9 @@ crp.to               # OnlyKey
 curl.se
 dexonline.ro
 docs.rs
-easylist.to
+easylist.to          # AdBlock Lists
 esm.sh
+fanboy.co.nz         # AdBlock Lists
 github.blog
 github.community
 go.dev
