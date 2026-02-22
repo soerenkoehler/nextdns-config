@@ -11,6 +11,16 @@ fritz-asl.local
 diskstation.local
 printer.local
 
+### Security
+
+crp.to     # OnlyKey
+proton.me  # Proton Cloud
+
+### Banking
+
+ninetailed.co               # dependency DKB Homepage
+paypal.com.fpc.datadome.co  # some Paypal checks
+
 ### AWS
 
 api.aws
@@ -30,17 +40,30 @@ aka.ms                  # short links
 sfx.ms                  # Onedrive updates
 onecdn.static.microsoft # Office 365
 
-### Banking
-
-ninetailed.co               # dependency DKB Homepage
-paypal.com.fpc.datadome.co  # some Paypal checks
-
 ### EnBW
 
 enbw.link
 enbw.cloud
 enbw-az.cloud
 sps-ocs.co.uk  # dependency Mitarbeiterpostfach
+
+### Dev
+
+curl.se
+docs.rs
+github.io
+github.dev
+github.blog
+github.community
+go.dev
+nextdns.io
+serde.rs
+
+### Malware Filters
+
+easylist.to
+fanboy.co.nz
+ublockorigin.pages.dev
 
 ### Steam
 
@@ -52,41 +75,21 @@ bsky.app
 bsky.network
 bsky.social
 discord.gg
+linktr.ee
 mstdn.social
 mastodon.social
 pinafore.social
 redd.it
 threema.id
-
-### Malware Filters
-
-easylist.to
-fanboy.co.nz
-ublockorigin.pages.dev
-
-### Dev
-
-docs.rs
-github.io
-github.dev
-github.blog
-github.community
-go.dev
-serde.rs
+youtu.be
 
 ### other
 
 arte.tv
-crp.to               # OnlyKey
-curl.se
 dexonline.ro
 esm.sh
 goodays.co           # dependency Dominos Pizza
 jimdo.systems
-linktr.ee
 maps.reisenden.info
-nextdns.io
-proton.me
 sli.do               # Mentimeter
-youtu.be
 zoom.us
