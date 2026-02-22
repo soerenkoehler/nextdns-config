@@ -39,6 +39,7 @@ pki.goog      # several PKI APIs
 aka.ms                  # short links
 sfx.ms                  # Onedrive updates
 onecdn.static.microsoft # Office 365
+svc.cloud.microsoft     # Office Safelinks
 
 ### EnBW
 
