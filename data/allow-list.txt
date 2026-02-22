@@ -60,13 +60,8 @@ threema.id
 
 ### Malware Filters
 
-curbengh.github.io
 easylist.to
 fanboy.co.nz
-malware-filter.gitlab.io
-malware-filter.pages.dev
-phishing-filter.pages.dev
-ublockorigin.github.io
 ublockorigin.pages.dev
 
 ### Dev
