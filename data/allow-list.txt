@@ -58,27 +58,31 @@ pinafore.social
 redd.it
 threema.id
 
+### Dev
+
+docs.rs
+github.io
+github.dev
+github.blog
+github.community
+go.dev
+serde.rs
+
 ### other
 
 arte.tv
 crp.to               # OnlyKey
 curl.se
 dexonline.ro
-docs.rs
 easylist.to          # AdBlock Lists
 esm.sh
 fanboy.co.nz         # AdBlock Lists
-github.dev
-github.blog
-github.community
-go.dev
 goodays.co           # dependency Dominos Pizza
 jimdo.systems
 linktr.ee
 maps.reisenden.info
 nextdns.io
 proton.me
-serde.rs
 sli.do               # Mentimeter
 youtu.be
 zoom.us
