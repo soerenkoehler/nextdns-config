@@ -46,6 +46,7 @@ svc.cloud.microsoft     # Office Safelinks
 enbw.link
 enbw.cloud
 enbw-az.cloud
+enbw.meshcloud.io
 sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 
 ### Dev
