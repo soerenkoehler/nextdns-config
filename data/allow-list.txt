@@ -55,6 +55,7 @@ sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 
 curl.se
 docs.rs
+gitbook.io
 github.io
 github.dev
 github.blog
