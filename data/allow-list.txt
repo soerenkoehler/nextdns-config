@@ -37,6 +37,8 @@ pki.goog      # several PKI APIs
 ### Microsoft
 
 aka.ms                  # short links
+cdn.vsassets.io         # Azure DevOps
+engage.cloud.microsoft  # Viva Engage
 sfx.ms                  # Onedrive updates
 onecdn.static.microsoft # Office 365
 svc.cloud.microsoft     # Office Safelinks
@@ -47,7 +49,6 @@ enbw.link
 enbw.cloud
 enbw-az.cloud
 enbw.meshstack.io
-engage.cloud.microsoft
 sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 
 ### Dev
