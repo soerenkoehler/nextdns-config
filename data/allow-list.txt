@@ -29,9 +29,10 @@ signin.aws
 
 ### Google
 
-forms.gle
 app.goo.gl    # maps short links
 colab.google
+colab.dev
+forms.gle
 pki.goog      # several PKI APIs
 
 ### Microsoft
