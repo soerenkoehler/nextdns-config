@@ -63,6 +63,7 @@ github.community
 go.dev
 nextdns.io
 serde.rs
+terraform.io
 
 ### Malware Filters
 
