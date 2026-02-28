@@ -74,9 +74,10 @@ easylist.to
 fanboy.co.nz
 ublockorigin.pages.dev
 
-### Steam
+### Games
 
-steamos.cloud
+steamos.cloud    # Steamdeck Setup
+kamori.goats.dev # FF14 Launcher
 
 ### Social
 
