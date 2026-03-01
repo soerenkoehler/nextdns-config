@@ -44,8 +44,8 @@ gallerycdn.vsassets.io  # VSCode Extensions
 engage.cloud.microsoft  # Viva Engage
 sfx.ms                  # Onedrive updates
 onecdn.static.microsoft # Office 365
+teams.static.microsoft  # Teams updates etc.
 svc.cloud.microsoft     # Office Safelinks
-
 ### EnBW
 
 enbw.link
@@ -97,6 +97,7 @@ youtu.be
 
 arte.tv
 dexonline.ro
+dl.pstmn.io          # Postman updates
 esm.sh
 goodays.co           # dependency Dominos Pizza
 jimdo.systems
