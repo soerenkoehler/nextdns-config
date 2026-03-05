@@ -15,6 +15,7 @@ printer.local
 
 crp.to     # OnlyKey
 proton.me  # Proton Cloud
+nist.gov   # NIST (e.g. CVE database)
 
 ### Banking
 
