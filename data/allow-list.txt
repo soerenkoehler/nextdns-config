@@ -69,6 +69,7 @@ github.blog
 github.community
 go.dev
 nextdns.io
+readthedocs.io
 serde.rs
 terraform.io
 
