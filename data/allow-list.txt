@@ -20,7 +20,10 @@ nist.gov   # NIST (e.g. CVE database)
 ### Banking
 
 ninetailed.co               # dependency DKB Homepage
+paypal.com                  # override any filter lists
+paypalobjects.com           # override any filter lists
 paypal.com.fpc.datadome.co  # some Paypal checks
+thalescloud.io              # depemndency Paypal
 
 ### AWS
 
