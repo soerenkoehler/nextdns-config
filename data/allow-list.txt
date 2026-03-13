@@ -74,6 +74,7 @@ go.dev
 nextdns.io
 readthedocs.io
 serde.rs
+swagger.io
 terraform.io
 
 ### Malware Filters
