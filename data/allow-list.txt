@@ -111,5 +111,6 @@ esm.sh
 goodays.co           # dependency Dominos Pizza
 jimdo.systems
 maps.reisenden.info
+scdn.co              # spotify backend
 sli.do               # Mentimeter
 zoom.us
