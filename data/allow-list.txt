@@ -23,7 +23,7 @@ ninetailed.co               # dependency DKB Homepage
 paypal.com                  # override any filter lists
 paypalobjects.com           # override any filter lists
 paypal.com.fpc.datadome.co  # some Paypal checks
-thalescloud.io              # depemndency Paypal
+thalescloud.io              # dependency Paypal
 
 ### AWS
 
@@ -112,5 +112,6 @@ goodays.co           # dependency Dominos Pizza
 jimdo.systems
 maps.reisenden.info
 scdn.co              # spotify backend
+simplydelivery.io    # dependency BurgerMe
 sli.do               # Mentimeter
 zoom.us
