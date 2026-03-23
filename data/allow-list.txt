@@ -44,6 +44,7 @@ pki.goog      # several PKI APIs
 aka.ms                  # short links
 cdn.vsassets.io         # Azure DevOps
 engage.cloud.microsoft  # Viva Engage
+outlook.cloud.microsoft # Outlook
 gallery.vsassets.io     # VSCode Extensions
 gallerycdn.vsassets.io  # VSCode Extensions
 office.net              # Office 365
