@@ -111,6 +111,7 @@ dexonline.ro
 dl.pstmn.io          # Postman updates
 esm.sh
 goodays.co           # dependency Dominos Pizza
+infoplaza.io         # Niederschlagsradar
 jimdo.systems
 maps.reisenden.info
 scdn.co              # spotify backend
