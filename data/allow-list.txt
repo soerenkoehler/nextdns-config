@@ -51,6 +51,7 @@ office.net              # Office 365
 office.com              # Office 365
 onecdn.static.microsoft # Office 365
 sfx.ms                  # Onedrive updates
+svc.ms                  # Office 365
 svc.cloud.microsoft     # Office Safelinks
 teams.static.microsoft  # Teams updates etc.
 
