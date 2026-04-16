@@ -4,6 +4,7 @@ de
 dk
 eu
 fr
+it
 nl
 no
 sv
