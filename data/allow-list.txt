@@ -1,8 +1,5 @@
 ### tmp
 
-scoocs.app  # OOP2026
-scoocs.co   # OOP2026
-
 ### LAN
 
 fritz.local
@@ -14,8 +11,9 @@ printer.local
 ### Security
 
 crp.to     # OnlyKey
-proton.me  # Proton Cloud
 nist.gov   # NIST (e.g. CVE database)
+proton.me  # Proton Cloud
+socket.dev # Test: socket.dev supply chain service
 
 ### Banking
 
@@ -88,8 +86,7 @@ ublockorigin.pages.dev
 
 ### Games
 
-steamos.cloud    # Steamdeck Setup
-kamori.goats.dev # FF14 Launcher
+steamos.cloud # Steamdeck Setup
 
 ### Social
 
