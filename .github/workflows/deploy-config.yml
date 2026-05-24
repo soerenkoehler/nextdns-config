@@ -14,6 +14,6 @@ jobs:
       API_KEY: ${{ secrets.api_key }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - run: ./src/deploy.sh
