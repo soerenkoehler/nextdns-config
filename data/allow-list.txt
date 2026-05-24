@@ -66,7 +66,7 @@ sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 crates.io
 curl.se
 docs.rs
-gitbook.io
+docker.io
 github.io
 github.dev
 github.blog
