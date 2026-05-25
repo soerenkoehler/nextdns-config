@@ -67,6 +67,7 @@ crates.io
 curl.se
 docs.rs
 docker.io
+ghcr.io
 github.io
 github.dev
 github.blog
