@@ -75,6 +75,7 @@ github.community
 go.dev
 nextdns.io
 readthedocs.io
+rustup.rs
 serde.rs
 swagger.io
 terraform.io
