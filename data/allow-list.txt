@@ -45,6 +45,7 @@ engage.cloud.microsoft  # Viva Engage
 outlook.cloud.microsoft # Outlook
 gallery.vsassets.io     # VSCode Extensions
 gallerycdn.vsassets.io  # VSCode Extensions
+m365.cloud.microsoft    # Office 365
 office.net              # Office 365
 office.com              # Office 365
 onecdn.static.microsoft # Office 365
