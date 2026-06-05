@@ -39,6 +39,7 @@ pki.goog      # several PKI APIs
 
 ### Microsoft
 
+admin.cloud.microsoft   # Office 365
 aka.ms                  # short links
 cdn.vsassets.io         # Azure DevOps
 engage.cloud.microsoft  # Viva Engage
