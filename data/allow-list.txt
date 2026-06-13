@@ -79,6 +79,7 @@ nextdns.io
 readthedocs.io
 rustup.rs
 serde.rs
+sonarcloud.io
 swagger.io
 terraform.io
 
