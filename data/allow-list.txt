@@ -70,6 +70,7 @@ curl.se
 docs.rs
 docker.io
 ghcr.io
+gitbook.io
 github.io
 github.dev
 github.blog
