@@ -125,6 +125,7 @@ goodays.co           # dependency Dominos Pizza
 infoplaza.io         # Niederschlagsradar
 jimdo.systems
 maps.reisenden.info
+nl-ams.scw.cloud     # dependency (CNAME) Cambio
 scdn.co              # spotify backend
 simplydelivery.io    # dependency BurgerMe
 sli.do               # Mentimeter
