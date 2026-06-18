@@ -57,6 +57,7 @@ teams.static.microsoft  # Teams updates etc.
 
 ### EnBW
 
+btp.cloud.sap # SAP BTP for Endia
 enbw.link
 enbw.cloud
 enbw-az.cloud
