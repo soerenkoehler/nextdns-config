@@ -65,6 +65,7 @@ sps-ocs.co.uk  # dependency Mitarbeiterpostfach
 
 ### Dev
 
+claude.ai
 crates.io
 curl.se
 docs.rs
