@@ -118,6 +118,7 @@ usercentrics.eu # Dependency Joyn
 ### other
 
 arte.tv
+broca.io             # Health Platform broca / GAIA
 dexonline.ro
 dl.pstmn.io          # Postman updates
 esm.sh
