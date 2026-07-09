@@ -1,4 +1,4 @@
-### tmp
+e### tmp
 
 ### LAN
 
@@ -81,9 +81,11 @@ nextdns.io
 readthedocs.io
 rustup.rs
 serde.rs
+snapcraft.io
 sonarcloud.io
 swagger.io
 terraform.io
+vscode.dev
 
 ### Malware Filters
 
