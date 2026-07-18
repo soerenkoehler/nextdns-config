@@ -39,21 +39,18 @@ pki.goog      # several PKI APIs
 
 ### Microsoft
 
-admin.cloud.microsoft   # Office 365
 aka.ms                  # short links
 cdn.vsassets.io         # Azure DevOps
-engage.cloud.microsoft  # Viva Engage
-outlook.cloud.microsoft # Outlook
+cloud.microsoft         # generic
 gallery.vsassets.io     # VSCode Extensions
 gallerycdn.vsassets.io  # VSCode Extensions
-m365.cloud.microsoft    # Office 365
+microsoft.com           # generic
 office.net              # Office 365
 office.com              # Office 365
-onecdn.static.microsoft # Office 365
 sfx.ms                  # Onedrive updates
 svc.ms                  # Office 365
-svc.cloud.microsoft     # Office Safelinks
-teams.static.microsoft  # Teams updates etc.
+static.microsoft        # generic
+windowsupdate.com       # Windows Update CDN
 
 ### EnBW
 
