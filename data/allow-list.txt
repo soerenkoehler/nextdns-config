@@ -44,7 +44,6 @@ cdn.vsassets.io         # Azure DevOps
 cloud.microsoft         # generic
 gallery.vsassets.io     # VSCode Extensions
 gallerycdn.vsassets.io  # VSCode Extensions
-microsoft.com           # generic
 office.net              # Office 365
 office.com              # Office 365
 sfx.ms                  # Onedrive updates
