@@ -109,13 +109,13 @@ youtu.be
 
 ### Streaming
 
+arte.tv
 glomex.cloud    # Dependency Joyn
 p7s1.io         # Joyn
 usercentrics.eu # Dependency Joyn
 
 ### other
 
-arte.tv
 broca.io             # Health Platform broca / GAIA
 dexonline.ro
 dl.pstmn.io          # Postman updates
@@ -127,6 +127,8 @@ jimdo.systems
 maps.reisenden.info
 nl-ams.scw.cloud     # dependency (CNAME) Cambio
 scdn.co              # spotify backend
+savvy.mobi           # HVV HOP
+simdle.mobi          # HVV HOP
 simplydelivery.io    # dependency BurgerMe
 sli.do               # Mentimeter
 zoom.us
