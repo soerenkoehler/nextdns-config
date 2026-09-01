@@ -75,6 +75,7 @@ github.blog
 github.community
 go.dev
 nextdns.io
+readme.io
 readthedocs.io
 rustup.rs
 serde.rs
