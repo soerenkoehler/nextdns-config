@@ -13,7 +13,6 @@ printer.local
 crp.to     # OnlyKey
 nist.gov   # NIST (e.g. CVE database)
 proton.me  # Proton Cloud
-socket.dev # Test: socket.dev supply chain service
 
 ### Banking
 
@@ -40,6 +39,7 @@ pki.goog      # several PKI APIs
 ### Microsoft
 
 aka.ms                  # short links
+azure.com               # Azure generic
 cdn.vsassets.io         # Azure DevOps
 cloud.microsoft         # generic
 gallery.vsassets.io     # VSCode Extensions
