@@ -1,7 +1,5 @@
 ### tmp
 
-convercus.io
-
 ### LAN
 
 fritz.local
