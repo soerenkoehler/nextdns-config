@@ -7,9 +7,9 @@ fritz2.local
 fritz-asl.local
 diskstation.local
 printer.local
-en6o6w873sz4rcze.myfritz.net:46149
-laosognc1gxrcw9v.myfritz.net:21189
-r946obsgmpsdqkmr.myfritz.net:45906
+en6o6w873sz4rcze.myfritz.net
+laosognc1gxrcw9v.myfritz.net
+r946obsgmpsdqkmr.myfritz.net
 
 ### Security
 
