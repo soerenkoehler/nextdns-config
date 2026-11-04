@@ -22,7 +22,6 @@ proton.me  # Proton Cloud
 ninetailed.co               # dependency DKB Homepage
 paypal.com                  # override any filter lists
 paypalobjects.com           # override any filter lists
-paypal.com.fpc.datadome.co  # some Paypal checks
 thalescloud.io              # dependency Paypal
 
 ### AWS
